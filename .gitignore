@@ -1,0 +1,43 @@
+# Environments
+.env
+venv/
+.venv
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Data & Models
+data/*
+!data/.gitkeep
+models/*.json
+models/*.bin
+models/*.model
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
