@@ -35,6 +35,10 @@ models/*.json
 models/*.bin
 models/*.model
 
+# Testing & Docs
+docs/
+notebooks/
+
 # Streamlit
 .streamlit/
 

@@ -1,13 +1,12 @@
-# football-prediction-pro ⚽
+# Football Any-latics Project ⚽
 
 A professional, scalable pipeline for live football predictions using XGBoost and Streamlit.
 
 ## Project Structure
+- `app/`: Streamlit dashboard application.
+- `src/`: Core logic for data ingestion, preprocessing, and prediction.
 - `data/`: Placeholder for datasets.
 - `models/`: Store your trained XGBoost models (`xgboost_model.json`).
-- `notebooks/`: For experimental analysis and model training.
-- `src/`: Core logic for data ingestion, preprocessing, and prediction.
-- `app/`: Streamlit dashboard application.
 
 ## Getting Started
 
